@@ -37,19 +37,19 @@ def style_base_layout():
             @import url('https://fonts.googleapis.com/css2?family=Climate+Crisis:YEAR@1979&display=swap');
             @import url('https://fonts.googleapis.com/css2?family=Climate+Crisis:YEAR@1979&family=Outfit:wght@100..900&display=swap');
 
-            /*Hide Top Bar of streamlit*/
-            #MainMenu, header, footer{
-                visibility : hidden;
-            }
+            # /*Hide Top Bar of streamlit*/
+            # #MainMenu, header, footer{
+            #     visibility : hidden;
+            # }
 
-            .block-container{
-                    padding-top:1.5rem !important;
-                }
+            # .block-container{
+            #         padding-top:1.5rem !important;
+            #     }
 
             h1{
                 font-family: 'Climate Crisis', sans-serif !important;
                 font-size:3.5rem !important;
-                line-height:1.2rem !important;
+                line-height: normal !important;
                 margin-bottom:1rem !important;
         
             }
@@ -68,7 +68,7 @@ def style_base_layout():
 
             button{
                 border-radius: 1.5rem !important;
-                background: #5765F3 !important;
+                background-color: #5765F3 !important;
                 color: white !important;
                 padding: 10px 20px !important;
                 border: none !important;
@@ -77,7 +77,7 @@ def style_base_layout():
 
             button[kind="secondary"]{
                 border-radius: 1.5rem !important;
-                background: #EB439E !important;
+                background-color: #EB439E !important;
                 color: white !important;
                 padding: 10px 20px !important;
                 border: none !important;
@@ -86,7 +86,7 @@ def style_base_layout():
 
             button[kind="tertiary"]{
                 border-radius: 1.5rem !important;
-                background: black !important;
+                background-color: black !important;
                 color: white !important;
                 padding: 10px 20px !important ;
                 border: none !important;
