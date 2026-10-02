@@ -4,6 +4,27 @@ SnapClass is a multimodal attendance management platform that automates classroo
 
 ---
 
+## 🌐 Landing Page
+![Landing Page](assets/snap-landing.png)
+
+## 👨‍🏫 Teacher Dashboard
+![Teacher Dashboard](assets/snap-teacher-flow-2-dashboard.png)
+
+## 📚 Subject Management
+![Subject Management](assets/snap-teacher-flow-3-create-course.png)
+
+## 🔗 QR-Based Enrollment
+![QR Enrollment](assets/snap-teacher-flow-4-share-qr-or-link.png)
+
+## 🎤 Voice Attendance Verification
+![Voice Attendance](assets/snap-teacher-flow-5.1-voice-attendance.png)
+
+## 👤 Face Recognition Attendance
+![Face Attendance](assets/snap-teacher-flow-5.2-photo-attendance.png)
+
+## 📊 Attendance Analytics & Reports
+![Attendance Reports](assets/snap-teacher-flow-5-see-stored-record.png)
+
 ## 🚀 Features
 
 - Face Recognition Attendance
