@@ -143,7 +143,8 @@ Attendance Reports
 ## 🔗 Project Links
 
 ### Live Demo
-https://snap-class-landing-page-delta.vercel.app/
+website - https://snap-class-landing-page-delta.vercel.app/
+streamlit - https://face-n-voice-attendance.streamlit.app/
 
 ## 🔮 Future Improvements
 
